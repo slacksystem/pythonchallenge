@@ -1,0 +1,2 @@
+# Python Challenge
+This repository is where we implement solutions to the [Python Challenge](httwep://www.pythonchallenge.com). We plan to try to solve all of the problems and anyone who is interested can feel free to check out what we've done.
